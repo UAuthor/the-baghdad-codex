@@ -3,6 +3,6 @@
     color: #000;             /* pure black text */
     font-size: 1.2em;        /* slightly larger (optional) */
     direction: rtl;          /* right‑to‑left direction */
-    text-align: right;       /* aligns Arabic properly */
+    text-align: left;       /* aligns Arabic properly */
     font-family: "Amiri", serif; /* optional: beautiful Arabic font */
 }
